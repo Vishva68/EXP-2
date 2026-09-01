@@ -5,7 +5,7 @@ Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
 
 Apparatus Required:
- 
+
 Sl .no	Apparatus	Range	Type	Quantity
 1	Volt meter	(0-300)V	MC	1
 2	Ammeter	(0-2.5)A	MC	1
@@ -47,37 +47,27 @@ Procedure for Load test:
 6.   After tabulating all the readings the load is brought to its initial position.
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
-Tabulation for Open Circuit Test,Tabulation for Load Test,Model graph:
+Tabulation for Open Circuit Test:
 
-![WhatsApp Image 2025-09-17 at 23 43 43_61b14eb5](https://github.com/user-attachments/assets/33a713f5-f9e5-46cb-bba6-e24d10266ba3)
+<img width="1464" height="1228" alt="image" src="https://github.com/user-attachments/assets/ff86f13d-50ff-4dc8-981d-f2d115231679" />
 
+Tabulation for Load Test:
 
-![WhatsApp Image 2025-09-17 at 23 43 43_b308bab7](https://github.com/user-attachments/assets/0923dcd0-fcbd-4067-9a8a-b5e78d5c5af4)
+<img width="1600" height="1261" alt="image" src="https://github.com/user-attachments/assets/3193518d-f246-4dbf-a96c-8bac15a265d9" />
 
+Model graph:
 
-![WhatsApp Image 2025-09-17 at 23 43 46_686654ff](https://github.com/user-attachments/assets/6985d981-359c-4ea9-8fd3-2fa23d0ef666)
+<img width="1228" height="1599" alt="image" src="https://github.com/user-attachments/assets/3c69d984-41e9-42c0-9a8d-92064d94a365" />
 
-
-![WhatsApp Image 2025-09-17 at 23 43 47_7f5a191c](https://github.com/user-attachments/assets/dd257297-f52b-44c7-b8da-ada8ba92dcc1)
-
-
-![WhatsApp Image 2025-09-17 at 23 43 47_53b8feac](https://github.com/user-attachments/assets/56020720-907b-415d-9fbb-2168e2063b4c)
-
-![WhatsApp Image 2025-09-17 at 23 43 48_7b464358](https://github.com/user-attachments/assets/9bbf1e7e-c0c7-45c7-90a7-d94c9bb0b6f3)
+<img width="1476" height="1599" alt="image" src="https://github.com/user-attachments/assets/57427867-9892-4564-823a-06725aab0d2c" />
 
 Calculation: 
 
 Open circuit characteristics
+<img width="825" height="722" alt="image" src="https://github.com/user-attachments/assets/dbec82f0-ec17-403d-a45b-59f3064d7779" />
 
-
- <img width="1431" height="922" alt="Screenshot 2025-09-17 234651" src="https://github.com/user-attachments/assets/a6a9bcd8-6570-4274-9fe8-c8ca885dd4e1" />
-
-  
 Load Characteristics:
-
-<img width="1362" height="935" alt="image" src="https://github.com/user-attachments/assets/44c263f7-f2bf-4aee-972a-afd7fa2f163f" />
-
+<img width="1046" height="818" alt="image" src="https://github.com/user-attachments/assets/cddca194-b6de-4174-b5cd-3d9d6f2963ff" />
 
 Result:
-
 The load test on separately excited generators and to obtain the characteristics was verified.
